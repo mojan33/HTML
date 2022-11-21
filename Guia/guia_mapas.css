@@ -1,0 +1,13 @@
+
+/* EJEMPLOS DE COLORES, EN LOS PATH DE LOS MAPAS HAY UN ATRIBUTO QUE SE LLAMA
+    FILL VER EL VALOR DEL NUMERO #FFFFF COMO EJEMPLO REEMPLAZARLO BLUE CON EL
+    COLOR EN HEXA Y CREAR UNO POR CADA ID DE CADA MAPA EN PATH */
+    
+    #departamento{
+        fill: blue;
+    }
+    
+    #departamento:hover{
+        fill: violet;
+    }
+    
